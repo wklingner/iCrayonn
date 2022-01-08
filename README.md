@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iCrayonn
+- 👋 Hello
 - 🇺🇸 I’m American
-- 🌱 I’m currently learning Java
+
 
 
 <!---
