@@ -1,4 +1,4 @@
-public class Main { public void static main(String[] args){ System.out.println("I don't like spacing my code!");}}
+public class Main { public void static main(String[] args){ System.out.println("Proper whitespace use is difficult");}}
 
 
 <!---
